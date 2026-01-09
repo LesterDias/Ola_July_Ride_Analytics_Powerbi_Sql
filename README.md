@@ -18,7 +18,7 @@ This project analyzes OLA ride data for July 2024 to uncover insights related to
 
 ## Dataset
 - `july.csv` – Raw ride-level data
-- `postgres.sql` – SQL queries for data analysis
+- `SQL_Queries.sql` – SQL queries for data analysis
 
 ## Dashboards
 - Overall performance overview
