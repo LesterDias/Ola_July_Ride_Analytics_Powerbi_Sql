@@ -43,5 +43,3 @@ This project analyzes OLA ride data for July 2024 to uncover insights related to
 - Predictive analytics
 - Automated ETL pipeline
 
-## Author
-Lester Dias
